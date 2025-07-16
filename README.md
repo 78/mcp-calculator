@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/78-mcp-calculator-badge.png)](https://mseep.ai/app/78-mcp-calculator)
+
 # MCP Sample Project | MCP 示例项目
 
 A powerful interface for extending AI capabilities through remote control, calculations, email operations, knowledge search, and more.
