@@ -14,6 +14,11 @@
       "type": "http",
       "url": "https://api.example.com/mcp",
       "disabled": true
+    },
+    "async-test": {
+      "type": "http",
+      "url": "http://127.0.0.1:9999/mcp",
+      "disabled": false
     }
   }
 }
