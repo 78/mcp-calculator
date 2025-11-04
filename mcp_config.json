@@ -5,6 +5,11 @@
       "command": "python",
       "args": ["-m", "calculator"]
     },
+    "local-stdio-feishu-base": {
+      "type": "stdio",
+      "command": "python",
+      "args": ["feishu_base.py"]
+    },
     "remote-sse-server": {
       "type": "sse",
       "url": "https://api.example.com/sse",

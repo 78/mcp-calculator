@@ -36,6 +36,11 @@ export MCP_ENDPOINT=<your_mcp_endpoint>
 python mcp_pipe.py calculator.py
 ```
 
+4. Run the feishu example | 运行飞书多维表示例:
+```bash
+python mcp_pipe.py feishu_base.py
+```
+
 Or run all configured servers | 或运行所有配置的服务:
 ```bash
 python mcp_pipe.py
