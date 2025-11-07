@@ -65,7 +65,7 @@ python mcp_pipe.py
 Here's a simple example of creating an MCP tool | 以下是一个创建MCP工具的简单示例:
 
 ```python
-from mcp.server.fastmcp import FastMCP
+from fastmcp import FastMCP
 
 mcp = FastMCP("YourToolName")
 
