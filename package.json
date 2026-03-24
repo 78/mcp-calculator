@@ -1,0 +1,22 @@
+{
+  "name": "mcp-pipe",
+  "version": "0.2.1",
+  "description": "MCP stdio <-> WebSocket pipe (Node.js version for Windows compatibility)",
+  "main": "mcp_pipe.js",
+  "scripts": {
+    "start": "node mcp_pipe.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "keywords": [
+    "mcp",
+    "websocket",
+    "stdio",
+    "xiaozhi"
+  ],
+  "license": "MIT"
+}
