@@ -1,4 +1,4 @@
-# MCP Sample Project | MCP 示例项目
+pip install -r requirements.txt# MCP Sample Project | MCP 示例项目
 
 A powerful interface for extending AI capabilities through remote control, calculations, email operations, knowledge search, and more.
 
